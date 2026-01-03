@@ -33,6 +33,8 @@ The project focuses on the design, mechanical analysis, electronic integration, 
 * **Guides:** 8mm smooth rods with SC8UU linear bearings.
 * **Transmission:** Worm gear mechanism for the base rotation (Joint 1).
 * **Couplers:** Flexible aluminum couplers (5mm to 8mm).
+<img width="707" height="808" alt="image" src="https://github.com/user-attachments/assets/69ca3f80-468e-4bdc-aa8b-b11e8a93a7ad" />
+<img width="886" height="1184" alt="image" src="https://github.com/user-attachments/assets/39dea0b9-6807-4597-8e5b-0022bdf6ba39" />
 
 ## Kinematics and Workspace
 The robot operates in a cylindrical workspace defined by the following joint limits:
