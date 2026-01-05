@@ -1,7 +1,6 @@
 # Design and Implementation of a Cylindrical Robotic Manipulator (3DOF)
 ![vista](https://github.com/user-attachments/assets/477fc6bc-2854-445a-aa8a-e73820bc69a5)
 
-
 ## Overview
 This repository contains the documentation and design files for a 3-Degree-of-Freedom (3DOF) cylindrical robotic manipulator. The project was developed as part of the Multibody System Dynamics (MT516) course at the National University of Engineering (UNI), Lima, Peru.
 
@@ -10,6 +9,9 @@ The project focuses on the design, mechanical analysis, electronic integration, 
 ## Project Status
 * **Current Content:** Design, Implementation, Kinematic Analysis, and Application reports.
 * **Upcoming Content:** MATLAB simulation scripts and Arduino control code (to be uploaded).
+<img width="1255" height="973" alt="image" src="https://github.com/user-attachments/assets/ff9be8af-e177-429c-8158-9e5ca019e6d2" />
+
+<img width="1182" height="896" alt="image" src="https://github.com/user-attachments/assets/82698e36-785e-4cfa-8e9f-f17f8e5acf91" />
 
 ## Features
 * **Configuration:** Cylindrical (RPP).
